@@ -11,6 +11,7 @@ public class CampaignTest {
 		System.out.println(System.getProperty("username"));
 		System.out.println(System.getProperty("password"));
 		System.out.println("Campaign is created");	
+		System.out.println("new lines of code added by sdet01");
 	}
 	@Test(groups="RegressionTesting")
 	public void createCampaignWithProductTest()
